@@ -57,7 +57,7 @@
 <div align="center">
 
 ### 30 Days Contribution Graph
-![Illusion's github activity graph](https://activity-graph.herokuapp.com/graph?username=Illusion0-0&theme=tokyonight)
+![Illusion's github activity graph](https://activity-graph.herokuapp.com/graph?username=Illusion0-0&theme=xcode)
 </div>
 
 <hr/>
