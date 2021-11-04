@@ -48,7 +48,7 @@
 <div align="center">
   
 ### Most Used language
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=illusion0-0&theme=react&show_icons=true&locale=en&layout=compact" alt="Illusion" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=illusion0-0&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="Illusion" /></p>
 </div>
 
 <!-- Activity Graph -->
@@ -57,7 +57,7 @@
 <div align="center">
 
 ### 30 Days Contribution Graph
-[![Illusion's github activity graph](https://activity-graph.herokuapp.com/graph?username=Illusion0-0&theme=xcode)]
+![Illusion's github activity graph](https://activity-graph.herokuapp.com/graph?username=Illusion0-0&theme=xcode)
 </div>
 
 <hr/>
