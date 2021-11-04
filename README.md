@@ -32,7 +32,7 @@
 <div align="center">
 
 ### Contributions
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=illusion0-0&theme=react&hide_border=true&fire=DD2727" alt="Illusion" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=illusion0-0&theme=tokyonight&hide_border=true&fire=DD2727" alt="Illusion" /></p>
 </div>
 
 <!-- Github Statistics -->
@@ -40,7 +40,7 @@
 <div align="center">
   
 ### Github Statistics
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=illusion0-0&theme=react&show_icons=true&locale=en" alt="Illusion" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=illusion0-0&theme=tokyonight&show_icons=true&locale=en" alt="Illusion" /></p>
 </div>
 
 <!-- Most Used language -->
@@ -57,7 +57,7 @@
 <div align="center">
 
 ### 30 Days Contribution Graph
-![Illusion's github activity graph](https://activity-graph.herokuapp.com/graph?username=Illusion0-0&theme=xcode)
+![Illusion's github activity graph](https://activity-graph.herokuapp.com/graph?username=Illusion0-0&theme=tokyonight)
 </div>
 
 <hr/>
