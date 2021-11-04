@@ -14,14 +14,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://dev.to/codestein" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="codestein" height="30" width="40" style="background:white"/></a>
-<a href="https://linkedin.com/in/codestein-tarun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codestein-tarun" height="30" width="40" /></a>
-<a href="https://medium.com/@code-stein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@code-stein" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/codestein_0_0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codestein_0_0" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/optimusop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="optimusop" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/codestien" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="codestien" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@optimusop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@optimusop" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/codestein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="codestein" height="30" width="40" /></a>
+<a href="https://dev.to/codestein" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="codestein" height="30" width="40" style="border: 6px solid white"/></a>
+<a href="https://linkedin.com/in/codestein-tarun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codestein-tarun" height="30" width="40" style="border: 6px solid white"/></a>
+<a href="https://medium.com/@code-stein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@code-stein" height="30" width="40" style="border: 6px solid white"/></a>
+<a href="https://www.codechef.com/users/codestein_0_0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codestein_0_0" height="30" width="40" style="border: 6px solid white"/></a>
+<a href="https://www.hackerrank.com/optimusop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="optimusop" height="30" width="40" style="border: 6px solid white"/></a>
+<a href="https://codeforces.com/profile/codestien" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="codestien" height="30" width="40" style="border: 6px solid white"/></a>
+<a href="https://www.hackerearth.com/@optimusop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@optimusop" height="30" width="40" style="border: 6px solid white"/></a>
+<a href="https://auth.geeksforgeeks.org/user/codestein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="codestein" height="30" width="40" style="border: 6px solid white"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
