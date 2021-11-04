@@ -51,6 +51,17 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=illusion0-0&theme=react&show_icons=true&locale=en&layout=compact" alt="Illusion" /></p>
 </div>
 
+<!-- Activity Graph -->
+<hr/>
+
+<div align="center">
+
+### 30 Days Contribution Graph
+[![Illusion's github activity graph](https://activity-graph.herokuapp.com/graph?username=Illusion0-0&theme=xcode)]
+</div>
+
+<hr/>
+
 <h3 align="center">Thank You!</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=illusion0-0&label=Profile%20views&color=0e75b6&style=flat" alt="illusion0-0" /> </p>
 
