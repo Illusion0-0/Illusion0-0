@@ -1,4 +1,4 @@
-<h1 align="center">🙏 Welcome to Illusion0-0 🙏</h1>
+<h1 align="center"> <a href="#"><img src="https://media.giphy.com/media/CXzRJA18RJAtmpPNBC/giphy.gif" width="48"></a> Welcome to Illusion0-0  <a href="#"><img src="https://media.giphy.com/media/CXzRJA18RJAtmpPNBC/giphy.gif" width="48"></a></h1>
 <a href="https://codestein.eu.org/"><img src="https://github.com/Illusion0-0/Illusion0-0/blob/main/contribution.png" width="900"></a>
 
 - 🔭 I’m currently working on [CodeStein](https://codestein.eu.org/)
@@ -12,7 +12,7 @@
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/codestein-tarun/)
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="center" style="background: white">
 <a href="https://dev.to/codestein" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="codestein" height="30" width="40" style="border: 6px solid white"/></a>
 <a href="https://linkedin.com/in/codestein-tarun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codestein-tarun" height="30" width="40" style="border: 6px solid white"/></a>
 <a href="https://medium.com/@code-stein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@code-stein" height="30" width="40" style="border: 6px solid white"/></a>
