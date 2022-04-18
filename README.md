@@ -31,39 +31,64 @@
 <h3 align="center"><img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="25px" /> Language & Technologies <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="25px" /></h3>
  
  <p align="center">
- <a href="https://www.cprogramming.com/" target="_blank"><img src="https://img.shields.io/badge/-C-0D1117?style=flat-square&logo=c"></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://img.shields.io/badge/-C++-0D1117?style=flat-square&logo=cplusplus"></a>
-   <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=Python"></a>
-    <a href="https://www.selenium.dev" target="_blank"><img src="https://img.shields.io/badge/-Selenium-0D1117?style=flat-square&logo=selenium"></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.shields.io/badge/-HTML5-0D1117?style=flat-square&logo=html5"></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.shields.io/badge/-CSS3-0D1117?style=flat-square&logo=css3"></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/-TailwindCss-0D1117?style=flat-square&logo=tailwindcss"></a>
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.shields.io/badge/-Bootstrap-0D1117?style=flat-square&logo=bootstrap" alt="bootstrap"> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript"></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react"></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/-Nodejs-0D1117?style=flat-square&logo=Node.js"></a>
-    <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/-MongoDB-0D1117?style=flat-square&logo=mongodb"></a>
-   <a href="https://expressjs.com" target="_blank"><img src="https://img.shields.io/badge/-ExpressJS-0D1117?style=flat-square&logo=express"></a>
-    <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/-Figma-0D1117?style=flat-square&logo=figma"></a>
- <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/-Firebase-0D1117?style=flat-square&logo=firebase"></a>
-<a href="https://cloud.google.com" target="_blank"><img src="https://img.shields.io/badge/-Google Cloud-0D1117?style=flat-square&logo=googlecloud"></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/-Linux-0D1117?style=flat-square&logo=linux"></a>
-<a href="https://www.nginx.com" target="_blank"><img src="https://img.shields.io/badge/-Nginx-0D1117?style=flat-square&logo=nginx"></a>
-<a href="https://www.php.net" target="_blank"><img src="https://img.shields.io/badge/-PHP-0D1117?style=flat-square&logo=php"></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/-MySQL-0D1117?style=flat-square&logo=mysql"></a>
-<a href="https://postman.com" target="_blank"><img src="https://img.shields.io/badge/-Postman-0D1117?style=flat-square&logo=postman"></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Markdown-%230D1117.svg?style=flat-square&logo=markdown"></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/-Docker-0D1117?style=flat-square&logo=docker"></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub%20Pages-%230D1117.svg?style=flat-square&logo=github"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Digital%20Ocean-0D1117?style=flat-square&logo=digitalocean"></a>
-  <a href="https://heroku.com" target="_blank"><img src="https://img.shields.io/badge/-Heroku-0D1117?style=flat-square&logo=heroku"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=flat-square&logo=github"></a>
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://img.shields.io/badge/-Arduino-0D1117?style=flat-square&logo=Arduino"></a>
-  <a href="https://unity.com/" target="_blank"><img src="https://img.shields.io/badge/-Unity-0D1117?style=flat-square&logo=unity"></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://img.shields.io/badge/-C++-0D1117?style=flat-square&logo=cplusplus">
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=Python">
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://img.shields.io/badge/-HTML5-0D1117?style=flat-square&logo=html5">
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://img.shields.io/badge/-CSS3-0D1117?style=flat-square&logo=css3">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript">
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react">
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://img.shields.io/badge/-Nodejs-0D1117?style=flat-square&logo=Node.js">
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-MongoDB-0D1117?style=flat-square&logo=mongodb">
+  </a>
+  <a href="https://expressjs.com" target="_blank">
+    <img src="https://img.shields.io/badge/-ExpressJS-0D1117?style=flat-square&logo=express">
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Figma-0D1117?style=flat-square&logo=figma">
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Firebase-0D1117?style=flat-square&logo=firebase">
+  </a>
+  <a href="https://cloud.google.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Google Cloud-0D1117?style=flat-square&logo=googlecloud">
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-Linux-0D1117?style=flat-square&logo=linux">
+  </a>
+  <a href="https://www.nginx.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Nginx-0D1117?style=flat-square&logo=nginx">
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-MySQL-0D1117?style=flat-square&logo=mysql">
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git">
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Docker-0D1117?style=flat-square&logo=docker">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/-Digital%20Ocean-0D1117?style=flat-square&logo=digitalocean">
+  </a>
+  <a href="https://heroku.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Heroku-0D1117?style=flat-square&logo=heroku">
+  </a>
 </p>
- 
-<i align="center"><b>Note:</b> These technologies came across my way at some point in time </i>
 
 <hr/>
 <!-- Contributions -->
