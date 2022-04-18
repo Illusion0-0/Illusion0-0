@@ -1,9 +1,14 @@
-<h1 align="center"> <a href="#"><img src="https://media.giphy.com/media/CXzRJA18RJAtmpPNBC/giphy.gif" width="48"></a> Welcome to Illusion0-0  <a href="#"><img src="https://media.giphy.com/media/CXzRJA18RJAtmpPNBC/giphy.gif" width="48"></a></h1>
+<h1 align="center"> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, Welcome to Illusion0-0 <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 <a href="https://codestein.eu.org/"><img src="https://github.com/Illusion0-0/Illusion0-0/blob/main/contribution.png" width="900"></a>
+
+<div align="center">  
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%235EF72C&size=24&lines=Hey!+You+just+met+Tarun+:D;He+solve+competitive+problems;and+loves+building+projects!)](https://git.io/typing-svg)
+</div>
 
 - 🔭 I’m currently working on [CodeStein](https://codestein.eu.org/)
 
-- 🌱 I’m currently learning **DSA, ReactJS, Networking**
+- 🌱 I’m currently learning **DSA, MERN, Networking**
 
 - 👨‍💻 All of my projects are available at [CodeStein](https://codestein.eu.org/)
 
@@ -11,19 +16,19 @@
 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/codestein-tarun/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50"/>You'll find me here<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50"/> </h3>
 <p align="center">
  <a href="https://dev.to/codestein" target="blank"><img src="https://img.shields.io/badge/-DEV-0D1117?style=flat-square&logo=dev.to"></a>
  <a href="https://linkedin.com/in/codestein-tarun" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=flat-square&logo=linkedin"></a>
  <a href="https://medium.com/@code-stein" target="blank"><img src="https://img.shields.io/badge/-Medium-0D1117?style=flat-square&logo=medium"></a>
  <a href="https://www.codechef.com/users/codestein_0_0" target="blank"><img src="https://img.shields.io/badge/-CodeChef-0D1117?style=flat-square&logo=codechef"></a>
  <a href="https://www.hackerrank.com/optimusop" target="blank"><img src="https://img.shields.io/badge/-HackerRank-0D1117?style=flat-square&logo=hackerrank"></a>
- <a href="https://codeforces.com/profile/codestien" target="blank"><img src="https://img.shields.io/badge/-CodeForces-0D1117?style=flat-square&logo=codeforces"></a>
+ <a href="https://codeforces.com/profile/codestein" target="blank"><img src="https://img.shields.io/badge/-CodeForces-0D1117?style=flat-square&logo=codeforces"></a>
  <a href="https://www.hackerearth.com/@optimusop" target="blank"><img src="https://img.shields.io/badge/-HackerEarth-0D1117?style=flat-square&logo=hackerearth"></a>
  <a href="https://auth.geeksforgeeks.org/user/codestein" target="blank"><img src="https://img.shields.io/badge/-GFG-0D1117?style=flat-square&logo=geeksforgeeks"></a>
 </p>
 
-<h3 align="left">⚡ Main Technologies</h3>
+<h3 align="center"><img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="25px" /> Language & Technologies <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="25px" /></h3>
  
  <p align="center">
  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://img.shields.io/badge/-C-0D1117?style=flat-square&logo=c"></a>
@@ -58,34 +63,24 @@
   <a href="https://unity.com/" target="_blank"><img src="https://img.shields.io/badge/-Unity-0D1117?style=flat-square&logo=unity"></a>
 </p>
  
-<i><b>Note:</b> Top languages is only a metric of the languages I have worked with and doesn't reflect experience or skill level.</i>
-<!-- Contributions -->
+<i align="center"><b>Note:</b> These technologies came across my way at some point in time </i>
+
 <hr/>
+<!-- Contributions -->
+
 <div align="center">
 
 ### Contributions
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=illusion0-0&theme=tokyonight&hide_border=true&fire=DD2727" alt="Illusion" /></p>
 </div>
 
-<!-- Github Statistics -->
 <hr/>
-<div align="center">
-  
-### 📃 Github Statistics
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=illusion0-0&theme=tokyonight&show_icons=true&locale=en" alt="Illusion" /></p>
-</div>
-
-<!-- Most Used language -->
-<hr/>
-<div align="center">
-  
-### Most Used language
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=illusion0-0&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="Illusion" /></p>
-</div>
+<!-- Github Statistics & Most Used language --> 
+|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=illusion0-0&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="Illusion" />|<img align="center" src="https://github-readme-stats.vercel.app/api?username=illusion0-0&theme=tokyonight&show_icons=true&locale=en" alt="Illusion" />|
+|---|---|
+___
 
 <!-- Activity Graph -->
-<hr/>
-
 <div align="center">
 
 ### 30 Days Contribution Graph
