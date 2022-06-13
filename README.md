@@ -1,6 +1,6 @@
-<h1 align="center"> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, Welcome to Illusion0-0 <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
+<!-- <h1 align="center"> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, Welcome to Illusion0-0 <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 <a href="https://codestein.eu.org/"><img src="https://github.com/Illusion0-0/Illusion0-0/blob/main/contribution.png" width="900"></a>
-
+ -->
 <div align="center">  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%235EF72C&size=24&lines=Hey!+You+just+met+Tarun+:D;He+solve+competitive+problems;and+loves+building+projects!)](https://git.io/typing-svg)
