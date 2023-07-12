@@ -93,29 +93,28 @@
 <hr/>
 <!-- Contributions -->
 
-<!--<div align="center">
+<div align="center">
 
 ### Contributions
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=illusion0-0&theme=tokyonight&hide_border=true&fire=DD2727" alt="Illusion" /></p>
 </div>
 
 <hr/> 
--->
+
 <!-- Github Statistics & Most Used language --> 
 
 |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=illusion0-0&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="Illusion" />|<img align="center" src="https://github-readme-stats.vercel.app/api?username=illusion0-0&theme=tokyonight&show_icons=true&locale=en" alt="Illusion" />|
 |---|---|
 ___
 
-<!-- Activity Graph -->
+<!-- Activity Graph 
 <div align="center">
 
 ### 30 Days Contribution Graph
 ![Illusion's github activity graph](https://activity-graph.herokuapp.com/graph?username=Illusion0-0&theme=xcode)
 </div>
-
 <hr/>
-
+-->
 <p align="center">
   <a href="#"><img src="https://media.giphy.com/media/vmGjjH1XOjViEfbBfZ/giphy.gif" width="128"></a>
 </p>
